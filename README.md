@@ -1,2 +1,3 @@
 # pythonprojects
-Welcome to the Python Projects Hub! This repository is a showcase of my diverse and innovative Python projects, crafted with passion and precision. From practical utilities to creative experiments, this collection demonstrates my journey through the world of Python programming.
+Welcome to my Personal Python Project Progress Tracker! This repository is a dedicated space for housing my collection of basic Python projects, carefully constructed to serve as milestones in my coding journey. 
+I'm going to start a journey of self-improvement here, using each project as a reflection of my growth as a programmer.
